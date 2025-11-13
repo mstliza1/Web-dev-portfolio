@@ -203,10 +203,9 @@ nav li a{
     display: flex;
     gap:117px;
     margin:0px 230px;
-}
-.contact-container{
     
 }
+
 .contact-description{
     margin-top:20px;
 }
